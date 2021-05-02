@@ -1,4 +1,4 @@
 # hello-world
 Just another repository.
 
-Hej, mam na imię Patryk.
+Hej, mam na imię Patryk. :)
